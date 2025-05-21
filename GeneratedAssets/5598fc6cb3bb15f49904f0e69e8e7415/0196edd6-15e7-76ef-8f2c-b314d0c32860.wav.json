@@ -1,0 +1,11 @@
+{
+    "asset": "5598fc6cb3bb15f49904f0e69e8e7415",
+    "fileName": "0196edd6-15e7-76ef-8f2c-b314d0c32860.wav",
+    "prompt": "The sound of fruit popping",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "customSeed": -1,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

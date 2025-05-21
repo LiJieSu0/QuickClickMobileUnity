@@ -1,0 +1,18 @@
+{
+    "asset": "050e8225e23337c4ea88fe462756e321",
+    "fileName": "0196eea6-9012-70a9-a081-49391bd542fd.png",
+    "prompt": "Colorful rainforest trees with flowers and fruits",
+    "negativePrompt": "",
+    "model": "48889f10-63e9-4608-8eea-a668ac2aff3e",
+    "customSeed": -1,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
