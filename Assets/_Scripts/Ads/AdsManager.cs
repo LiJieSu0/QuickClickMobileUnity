@@ -17,8 +17,14 @@ public class AdsManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        
     }
 
+    private void Start()
+    {
+        ShowBannerAd();
+    }
     public void ShowAds()
     {
         SoundManager.instance.ToggleMute();
@@ -49,5 +55,8 @@ public class AdsManager : MonoBehaviour
         onAdCompeteHandler?.Invoke();
         ReloadGameScene();
     }
-
+    private void ShowBannerAd(){
+        GetComponent<BannerAdExample>().LoadBanner();
+        GetComponent<BannerAdExample>().ShowBannerAd();
+    }
 }
